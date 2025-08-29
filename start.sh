@@ -1,5 +1,0 @@
-python train.py > log_1.txt --experiment_name 'DME_1' --train_list './dataset/train_1.txt' --test_list './dataset/test_1.txt'
-python train.py > log_2.txt --experiment_name 'DME_2' --train_list './dataset/train_2.txt' --test_list './dataset/test_2.txt'
-python train.py > log_3.txt --experiment_name 'DME_3' --train_list './dataset/train_3.txt' --test_list './dataset/test_3.txt'
-python train.py > log_4.txt --experiment_name 'DME_4' --train_list './dataset/train_4.txt' --test_list './dataset/test_4.txt'
-python train.py > log_5.txt --experiment_name 'DME_5' --train_list './dataset/train_5.txt' --test_list './dataset/test_5.txt'
